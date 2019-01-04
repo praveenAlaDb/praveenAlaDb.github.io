@@ -2,12 +2,12 @@
 	"users": [{
 		"id": 1,
 		"email": "praveen.a@darwinbox.in",
-		"slot1": "Seven Thirty pm - Eight pm"
+		"slot1": "Seven Thirty pm - Eight pm",
 		"slot2": "nine pm - nine thirty pm"
 	}, {
 		"id": 2,
 		"email": "ramesh.naik@darwinbox.io",
-		"slot1": "eight Thirty pm - nine pm"
+		"slot1": "eight Thirty pm - nine pm",
 		"slot2": "nine pm - nine thirty pm"
 	}]
 }

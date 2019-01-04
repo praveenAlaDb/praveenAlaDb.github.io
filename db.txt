@@ -1,2 +1,2 @@
-1 for sales
-2 for support
+press 1 for to schedule an interview on
+press 2 for support

@@ -1,4 +1,4 @@
-press 1 for to schedule an interview on 14th january 2019 at 4pm - 4.30pm
-press 2 for to schedule an interview on 14th january 2019 at 5pm - 5.30pm
-press 3 for to schedule an interview on 14th january 2019 at 6pm - 6.30pm
-press 4 for to schedule an interview on 14th january 2019 at 7pm - 7.30pm 
+Press 1 to schedule the interview from 7.30 pm to 8.30 pm on 07th January 2019
+Press 2 to schedule the interview from 10.00 AM to 11.00 AM 07th January 2019
+Press 3 to schedule the interview from 11.00 AM to 11.30 AM 07th January 2019
+Press 4 to schedule the interview from 12.00 PM to 12.30 PM 07th January 2019
